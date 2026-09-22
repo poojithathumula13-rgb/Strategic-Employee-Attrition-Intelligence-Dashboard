@@ -15,14 +15,14 @@ To transform employee data into meaningful visual insights and understand employ
 
 📊 Project Includes
 
-Clear objectives
-Interactive Power BI Dashboard
-Data Cleaning & Preprocessing
-KPI Cards and Visualizations
-Key insights (highlighted findings from your report)
-Attrition Analysis
-Final Project Report
-Future scope
+Clear objectives, 
+Interactive Power BI Dashboard,
+Data Cleaning & Preprocessing,
+KPI Cards and Visualizations,
+Key insights (highlighted findings from your report),
+Attrition Analysis,
+Final Project Report, and
+ Future scope
 
 📁 Project Files
 Employee Attrition Dataset

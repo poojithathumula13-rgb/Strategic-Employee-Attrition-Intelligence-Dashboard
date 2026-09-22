@@ -25,6 +25,7 @@ Clear objectives |
  Future scope
 
 📁 Project Files
+
 Employee Attrition Dataset |
 Power BI Dashboard |
-Final Project Report |
+Final Project Report 

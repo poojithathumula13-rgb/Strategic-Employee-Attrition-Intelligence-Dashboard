@@ -7,7 +7,7 @@ The dashboard analyzes factors such as salary growth, overtime, burnout, engagem
 
  Tools Used
 
-Power BI | Power Query | DAX | CSV
+SQL | Power BI | Power Query | DAX | CSV
 
 Project Goal
 
